@@ -1,6 +1,5 @@
 # jeepney-fare-collection-system
-
-During my first year of college, I had the opportunity to work on a fare collection system project. The project aimed to create a simple command-line application for managing fare calculations, transactions, and revenue reporting.
+This project aimed to create a simple command-line application for managing fare calculations, transactions, and revenue reporting.
 
 Here are the main features of the code:
 
